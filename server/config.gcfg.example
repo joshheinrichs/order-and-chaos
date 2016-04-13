@@ -1,0 +1,4 @@
+[Website]
+Url = example.com
+HttpPort = :80
+HttpsPort = :443
